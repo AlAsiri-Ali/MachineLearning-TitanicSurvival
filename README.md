@@ -170,22 +170,22 @@ The project follows a comprehensive machine learning pipeline:
 
 ```
 ├── data/
-│   ├── train.csv              # Training dataset
-│   └── test.csv               # Test dataset
+│   ├── train.csv .............................. # Training dataset
+│   └── test.csv  .............................. # Test dataset
 ├── notebooks/
-│   ├── Machen_learning_project.ipynb         # Main Jupyter notebook
-│   ├── Machen_learning_project.py            # Converted Python script
-│   └── Machen_learning_project_Report.md     # Project report
+│   ├── Machen_learning_project.ipynb .......... # Main Jupyter notebook
+│   ├── Machen_learning_project.py ............. # Converted Python script
+│   └── Machen_learning_project_Report.md ...... # Project report
 ├── src/
-│   ├── data_preprocessing.py       # Data loading and preprocessing
-│   ├── feature_engineering.py      # Feature creation and transformation
-│   ├── model_training.py           # ML model training functions
-│   ├── model_evaluation.py         # Model evaluation and visualization
-│   ├── data_visualization.py       # EDA and data visualization functions
-│   └── utils.py                    # Utility functions
-├── main.py                         # Main pipeline execution
-├── model.joblib                    # Saved best model
-└── README.md                       # Project documentation
+│   ├── data_preprocessing.py .................. # Data loading and preprocessing
+│   ├── feature_engineering.py ................. # Feature creation and transformation
+│   ├── model_training.py ...................... # ML model training functions
+│   ├── model_evaluation.py .................... # Model evaluation and visualization
+│   ├── data_visualization.py .................. # EDA and data visualization functions
+│   └── utils.py ............................... # Utility functions
+├── main.py .................................... # Main pipeline execution
+├── model.jobli ................................ # Saved best model
+└── README.md .................................. # Project documentation
 ```
 
 ## 📈 Key Insights
