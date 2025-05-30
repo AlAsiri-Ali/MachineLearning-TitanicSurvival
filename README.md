@@ -1,4 +1,4 @@
-# 🚢 Titanic Survival Prediction - EMAI640 Master's Project
+# 🚢 Titanic Survival Prediction - Master's Project
 
 ![University](https://img.shields.io/badge/University-King%20Abdulaziz%20University-blue)
 ![College](https://img.shields.io/badge/College-FCIT-green)
