@@ -29,7 +29,6 @@ This project analyzes the famous Titanic dataset to predict passenger survival u
 ## 📋 Quick Links
 
 - **[📊 Jupyter Notebook](notebooks/Machen_learning_project.ipynb)** - Complete analysis and model development
-- **[📝 Project Report](notebooks/Machen_learning_project_Report.md)** - Detailed project report and findings
 - **[🐍 Python Script](notebooks/Machen_learning_project.py)** - Converted notebook to Python script
 - **[🚀 Main Pipeline](main.py)** - Automated ML pipeline execution
 
