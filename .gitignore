@@ -1,0 +1,48 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment files
+.env
+.venv/
+venv/
+ENV/
+
+# VSCode settings
+.vscode/
+
+# Data and model artifacts
+*.joblib
+*.pkl
+*.h5
+*.csv
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Reports and temporary files
+*.log
+*.tmp
+
+# Ignore data files except for the template
+!data/
+!data/train.csv
+!data/test.csv
+
+data/*.csv
+!data/train.csv
+!data/test.csv
+
+# Ignore notebook outputs
+notebooks/*.nbconvert.ipynb
+
+# Ignore markdown reports if not needed
+notebooks/*.md
+
+# Ignore requirements.txt if you want to keep it tracked, remove this line
+# requirements.txt
