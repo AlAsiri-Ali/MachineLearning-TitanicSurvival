@@ -173,8 +173,7 @@ The project follows a comprehensive machine learning pipeline:
 │   └── test.csv  .............................. # Test dataset
 ├── notebooks/
 │   ├── Machen_learning_project.ipynb .......... # Main Jupyter notebook
-│   ├── Machen_learning_project.py ............. # Converted Python script
-│   └── Machen_learning_project_Report.md ...... # Project report
+│   └── Machen_learning_project.py ............. # Converted Python script
 ├── src/
 │   ├── data_preprocessing.py .................. # Data loading and preprocessing
 │   ├── feature_engineering.py ................. # Feature creation and transformation
